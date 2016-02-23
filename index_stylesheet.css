@@ -9,3 +9,14 @@ footer{
     color:black;
     font-family: "Times New Roman", Times, serif;
 }
+
+.item{
+    margin: auto;
+    width: 60%;
+    
+}
+
+.carousel-inner > .item > img, .carousel-inner > .item > a > img{
+    width: 80%;
+    margin:auto;
+}
